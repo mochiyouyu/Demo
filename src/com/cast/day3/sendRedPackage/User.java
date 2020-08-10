@@ -2,12 +2,12 @@ package com.cast.day3.sendRedPackage;
 
 public class User {
     private String name;
-    private double money;
+    private int money;
 
     public User() {
     }
 
-    public User(String name, double money) {
+    public User(String name, int money) {
         this.name = name;
         this.money = money;
     }
@@ -24,11 +24,11 @@ public class User {
         this.name = name;
     }
 
-    public double getMoney() {
+    public int getMoney() {
         return money;
     }
 
-    public void setMoney(double money) {
+    public void setMoney(int money) {
         this.money = money;
     }
 }

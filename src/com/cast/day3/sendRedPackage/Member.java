@@ -8,14 +8,14 @@ public class Member extends User{
     public Member() {
     }
 
-    public Member(String name, double money) {
+    public Member(String name, int money) {
         super(name, money);
     }
 
-    public void receive(ArrayList<Double> redList){
+    public void receive(ArrayList<Integer> redList){
         int index=new Random().nextInt(redList.size());
-        double x=redList.remove(index);
-        double money=super.getMoney();
+        int x=redList.remove(index);
+        int money=super.getMoney();
         super.setMoney(money+x);
     }
 }

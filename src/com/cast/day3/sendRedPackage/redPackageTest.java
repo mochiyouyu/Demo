@@ -1,5 +1,7 @@
 package com.cast.day3.sendRedPackage;
 
+import org.omg.CORBA.INTERNAL;
+
 import java.util.ArrayList;
 
 public class redPackageTest {
@@ -13,10 +15,7 @@ public class redPackageTest {
         two.show();
         three.show();
         System.out.println("=============");
-        ArrayList<Double> redList1 = manager.redRandom(21,3);
-        for (int i = 0; i < redList1.size(); i++) {
-            System.out.print(redList1.get(i)+" ");
-        }
+        ArrayList<Integer> redList1 = manager.setOpenWay(new Normal());
         one.receive(redList1);
         two.receive(redList1);
         three.receive(redList1);
@@ -25,7 +24,7 @@ public class redPackageTest {
         two.show();
         three.show();
         System.out.println("=================");
-        ArrayList<Double> redList = manager.redAvg(21, 3);
+        ArrayList<Integer> redList = manager.setOpenWay(new RedRandom());
         one.receive(redList);
         two.receive(redList);
         three.receive(redList);
