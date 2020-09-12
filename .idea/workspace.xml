@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bb52a7a-93a8-4446-85b3-45ea5949398c" name="Default Changelist" comment="Collections方法的一些应用，集合方面的学习，List,Set,Map方面的学习" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\opt\apache-maven-3.6.3\respository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../opt/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\opt\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1guerdDY70rwnQi2A6bbtc7wgag" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15682282" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\Demo\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoOf ">
+    <configuration name="DemoOf " type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.cast.day10.map.DemoOf" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cast.day10.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cast.day10.exercise.Game01" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cast.day10.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cast.day10.map.HashMapDemo" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cast.day10.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cast.day10.linkListDemo.LinkList" />
+      <module name="Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cast.day10.linkListDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DemoOf " />
+      <item itemvalue="Application.Game01" />
+      <item itemvalue="Application.HashMapDemo" />
+      <item itemvalue="Application.LinkList" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoOf " />
+        <item itemvalue="Application.LinkList" />
+        <item itemvalue="Application.Game01" />
+        <item itemvalue="Application.HashMapDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bb52a7a-93a8-4446-85b3-45ea5949398c" name="Default Changelist" comment="" />
+      <created>1598969104507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598969104507</updated>
+      <workItem from="1598969107999" duration="64000" />
+      <workItem from="1599372187349" duration="21000" />
+      <workItem from="1599873507972" duration="185000" />
+      <workItem from="1599873701276" duration="22448000" />
+      <workItem from="1599925011989" duration="393000" />
+      <workItem from="1599925433732" duration="81000" />
+      <workItem from="1599925556967" duration="44000" />
+    </task>
+    <task id="LOCAL-00001" summary="Collections方法的一些应用，集合方面的学习，List,Set,Map方面的学习">
+      <created>1599925513206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599925513206</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Collections方法的一些应用，集合方面的学习，List,Set,Map方面的学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections方法的一些应用，集合方面的学习，List,Set,Map方面的学习" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="651" y="274" key="#Notifications" timestamp="1599924584490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="651" y="274" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1599924584490" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1599874087088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1599874087088" />
+    <state x="96" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599925398671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="96" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599925398671" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1599921599658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1599921599658" />
+    <state x="511" y="254" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599890616525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="254" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1599890616525" />
+    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1599925575612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599925575612" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599924956161">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599924956161" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1599925404414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599925404414" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1599925404414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599925404414" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1599925404413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599925404413" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1599925404414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599925404414" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1599924999264">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599924999264" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599917640905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599917640905" />
+  </component>
+</project>
