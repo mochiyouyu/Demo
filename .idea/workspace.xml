@@ -20,20 +20,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bb52a7a-93a8-4446-85b3-45ea5949398c" name="Default Changelist" comment="Collections方法的一些应用，集合方面的学习，List,Set,Map方面的学习">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day10/debug/DebugDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day10/exercise/Game2PuKe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/ThreadDemo/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/ThreadDemo/SleepDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/ThreadDemo/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/exception/ExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/exception/ExceptionDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/exception/ExerciseException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/exception/FuException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/exception/RegisterException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/exception/ThrowDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/exception/ThrowsExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/lambda/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/lambda/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/lambda/LambdaDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/lambda/LambdaDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/lambda/LambdaDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/lambda/LambdaDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/lambda/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/runAbleDemo/RunAbleDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/runAbleDemo/RunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/runAbleDemo/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/runAbleDemo/TicketDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/test/BaoZi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/test/BaoZiPu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/test/ChiHuo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/test/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/threadPool/RunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/threadPool/ThreadPoolDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day11/wait/WaitAndNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/FileDemo01/FileListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/digui/DIGuiDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/fileDemo/FileDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/fileDemo/FileFilterImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/fileDemo/Separator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/fileDemo/listFilesDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/fileDemo/listFilesDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/fileDemo/listFilesDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/fileDemo/listFilesDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/fileDemo/listFilesDemo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/fileDemo/listFilesDemo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day12/fileDemo/listFilesDemo07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day13/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day13/OperationThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/bufferedFileOutputStream/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/bufferedFileOutputStream/bufferedFileOutputStreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/bufferedFileOutputStream/bufferedFileOutputStreamDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/bufferedReader/BufferedReaderAndWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/bufferedReader/BufferedReaderDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/bufferedReader/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/bufferedReader/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/bufferedWriter/BufferedWriterDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/bufferedWriter/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/copyFile/CopyFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/copyFile/copy01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/copyFile/copy02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/copyFile/copy03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/fileReader/FileReaderDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/fileReader/FileReaderDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/fileReader/FileReaderDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/fileReader/FileReaderDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/fileWriter/FileWriterDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/fileWriter/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/inputStream/FileInputStreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/inputStream/FileInputStreamDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/inputStream/FileInputStreamDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/inputStream/FileInputStreamDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/inputStream/FileInputStreamDemo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/inputStreamReader/InputStreamReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/objectOutputStream/ObjectInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/objectOutputStream/ObjectInputStreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/objectOutputStream/ObjectOutputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/objectOutputStream/ObjectOutputStreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/objectOutputStream/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/objectOutputStream/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/objectOutputStream/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/outputStream/FileOutputStreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/outputStream/FileOutputStreamDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/outputStream/FileOutputStreamDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/outputStream/FileOutputStreamDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/outputStreamWriter/OutputStreamWritterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/outputStreamWriter/OutputStreamWritterDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/outputStreamWriter/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/outputStreamWriter/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/properties/PropertiesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/properties/PropertiesDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/properties/PropertiesDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cast/day14/properties/prop.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cast/day10/map/DemoOf.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +109,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -60,13 +127,17 @@
     </option>
   </component>
   <component name="ProjectId" id="1guerdDY70rwnQi2A6bbtc7wgag" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
@@ -76,20 +147,27 @@
     <property name="project.structure.proportion" value="0.15682282" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cast.day14.objectOutputStream" />
+      <recent name="com.cast.day14.outputStreamWriter" />
+      <recent name="com.cast.day14.bufferedFileOutputStream" />
+      <recent name="com.cast.day14.properties" />
+      <recent name="com.cast.day14.fileWriter" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IDEA\Demo\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SleepDemo">
-    <configuration name="ExceptionDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cast.day11.exception.ExceptionDemo02" />
+  <component name="RunManager" selected="Application.ObjectInputStreamDemo">
+    <configuration name="ObjectInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cast.day14.objectOutputStream.ObjectInputStreamDemo" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cast.day11.exception.*" />
+          <option name="PATTERN" value="com.cast.day14.objectOutputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciseException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cast.day11.exception.ExerciseException" />
+    <configuration name="ObjectInputStreamDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cast.day14.objectOutputStream.ObjectInputStreamDemo01" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cast.day11.exception.*" />
+          <option name="PATTERN" value="com.cast.day14.objectOutputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SleepDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cast.day11.ThreadDemo.SleepDemo" />
+    <configuration name="ObjectOutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cast.day14.objectOutputStream.ObjectOutputStreamDemo" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cast.day11.ThreadDemo.*" />
+          <option name="PATTERN" value="com.cast.day14.objectOutputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,25 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cast.day11.ThreadDemo.ThreadDemo" />
+    <configuration name="ObjectOutputStreamDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cast.day14.objectOutputStream.ObjectOutputStreamDemo01" />
       <module name="Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cast.day11.ThreadDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThrowsExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cast.day11.exception.ThrowsExceptionDemo" />
-      <module name="Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cast.day11.exception.*" />
+          <option name="PATTERN" value="com.cast.day14.objectOutputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +215,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThrowsExceptionDemo" />
-      <item itemvalue="Application.ExceptionDemo02" />
-      <item itemvalue="Application.ExerciseException" />
-      <item itemvalue="Application.ThreadDemo" />
-      <item itemvalue="Application.SleepDemo" />
+      <item itemvalue="Application.ObjectOutputStreamDemo" />
+      <item itemvalue="Application.ObjectInputStreamDemo" />
+      <item itemvalue="Application.ObjectOutputStreamDemo01" />
+      <item itemvalue="Application.ObjectInputStreamDemo01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SleepDemo" />
-        <item itemvalue="Application.ThreadDemo" />
-        <item itemvalue="Application.ExerciseException" />
-        <item itemvalue="Application.ExceptionDemo02" />
-        <item itemvalue="Application.ThrowsExceptionDemo" />
+        <item itemvalue="Application.ObjectInputStreamDemo" />
+        <item itemvalue="Application.ObjectInputStreamDemo01" />
+        <item itemvalue="Application.ObjectOutputStreamDemo01" />
+        <item itemvalue="Application.ObjectOutputStreamDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +249,23 @@
       <workItem from="1599958862959" duration="246000" />
       <workItem from="1599959138445" duration="13632000" />
       <workItem from="1599997926652" duration="6454000" />
+      <workItem from="1600067175049" duration="219000" />
+      <workItem from="1600086350793" duration="1990000" />
+      <workItem from="1600128341804" duration="8136000" />
+      <workItem from="1600158500343" duration="10883000" />
+      <workItem from="1600223003048" duration="9046000" />
+      <workItem from="1600778024121" duration="3533000" />
+      <workItem from="1600827168263" duration="2159000" />
+      <workItem from="1601082174023" duration="10599000" />
+      <workItem from="1601171473302" duration="6876000" />
+      <workItem from="1601430911713" duration="4204000" />
+      <workItem from="1601470840127" duration="1334000" />
+      <workItem from="1601536095211" duration="2509000" />
+      <workItem from="1601556649263" duration="784000" />
+      <workItem from="1601599701808" duration="9856000" />
+      <workItem from="1602035909972" duration="2445000" />
+      <workItem from="1602147507128" duration="662000" />
+      <workItem from="1602589254730" duration="2232000" />
     </task>
     <task id="LOCAL-00001" summary="Collections方法的一些应用，集合方面的学习，List,Set,Map方面的学习">
       <created>1599925513206</created>
@@ -213,6 +293,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Collections方法的一些应用，集合方面的学习，List,Set,Map方面的学习" />
     <option name="LAST_COMMIT_MESSAGE" value="Collections方法的一些应用，集合方面的学习，List,Set,Map方面的学习" />
   </component>
@@ -225,14 +306,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1599874087088" />
-    <state x="226" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599959038665">
+    <state x="226" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602589927456">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="226" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599959038665" />
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1599921599658">
+    <state x="226" y="101" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602589927456" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1601609916454">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1599921599658" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601609916454" />
     <state x="511" y="254" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599890616525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -241,53 +322,57 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="317" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1599925575612" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599924956161">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602595106486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599924956161" />
-    <state width="1493" height="284" key="GridCell.Tab.0.bottom" timestamp="1600008205313">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602595106486" />
+    <state width="1493" height="185" key="GridCell.Tab.0.bottom" timestamp="1602595172653">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="284" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600008205313" />
-    <state width="1493" height="284" key="GridCell.Tab.0.center" timestamp="1600008205313">
+    <state width="1493" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602595172653" />
+    <state width="1493" height="185" key="GridCell.Tab.0.center" timestamp="1602595172653">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="284" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600008205313" />
-    <state width="1493" height="284" key="GridCell.Tab.0.left" timestamp="1600008205313">
+    <state width="1493" height="185" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602595172653" />
+    <state width="1493" height="185" key="GridCell.Tab.0.left" timestamp="1602595172653">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="284" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600008205313" />
-    <state width="1493" height="284" key="GridCell.Tab.0.right" timestamp="1600008205313">
+    <state width="1493" height="185" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602595172653" />
+    <state width="1493" height="185" key="GridCell.Tab.0.right" timestamp="1602595172653">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="284" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600008205313" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599960125909">
+    <state width="1493" height="185" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602595172653" />
+    <state width="1493" height="266" key="GridCell.Tab.1.bottom" timestamp="1601603600049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599960125909" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599960125909">
+    <state width="1493" height="266" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601603600049" />
+    <state width="1493" height="266" key="GridCell.Tab.1.center" timestamp="1601603600049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599960125909" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599960125909">
+    <state width="1493" height="266" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601603600049" />
+    <state width="1493" height="266" key="GridCell.Tab.1.left" timestamp="1601603600049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599960125909" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599960125909">
+    <state width="1493" height="266" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601603600049" />
+    <state width="1493" height="266" key="GridCell.Tab.1.right" timestamp="1601603600049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599960125909" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1599959105998">
+    <state width="1493" height="266" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601603600049" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1600067402022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599959105998" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600067402022" />
+    <state x="178" y="0" key="new project wizard" timestamp="1602595168235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602595168235" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1600002733402">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600002733402" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600002900173">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601610739807">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600002900173" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601610739807" />
   </component>
 </project>
